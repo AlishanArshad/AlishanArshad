@@ -10,122 +10,78 @@
 
 
 ---
-# Hi there, I'm Ali Shan 👋
-
-## 🚀 About Me
-
-I am a passionate and motivated aspiring **Java Developer** with a strong foundation in **Object-Oriented Programming (OOP)** and **Software Development Principles**. I am currently enhancing my skills through professional certifications and hands-on projects.
-
-* 🎓 Currently pursuing **IBM Java Developer Professional Certificate (Coursera)**
-* 💻 Interested in **Backend Development** and **Cloud Computing**
-* 🌱 Continuously learning and building real-world projects
-* 📍 Based in Karachi, Pakistan
-
+# Alishan Arshad
+ 
+Java developer based in Karachi, Pakistan. I build backend applications with Java and Spring Boot, and I am currently working on a full-stack project with React.
+ 
+[LinkedIn](https://www.linkedin.com/in/alishanarshad/) | [Email](mailto:alishanarshad14@gmail.com)
+ 
 ---
-
-## 🛠️ Skills
-
-### Programming Languages
-
-* Java (Core Java, OOP Concepts)
-* SQL
-* HTML
-* CSS
-* JavaScript
-
-### Technologies & Tools
-
-* MySQL
-* Git & GitHub
-* REST APIs
-
-### Concepts
-
-* Object-Oriented Programming (OOP)
-* Data Structures
-* Software Engineering Principles
-* Database Management Systems (DBMS)
-
----
-
-## 📚 Certifications
-
-### 🏅 IBM
-
-* Cloud Native, Microservices, Containers, DevOps and Agile *(Apr 2026)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/I20MEKV1QTEA)
-* Getting Started with Git and GitHub *(Oct 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/I20MEKV1QTEA)
-* Introduction to HTML, CSS, & JavaScript *(Oct 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/818ZKKO3POJZ)
-* Object Oriented Programming in Java *(Sep 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/B1OENEE9G9FM)
-* Java Programming for Beginners *(Sep 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/ETTUVLWE4WLF)
-* Introduction to Software Engineering *(Sep 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/S42EW2LXLSU4)
-
-### 🏅 SkillUp / SkillUp Online
-
-* Java Development with Databases *(Mar 2026)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/4TBKOQU85UK8)
-* Spring Framework for Java Development *(Oct 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/7Q3HTF5DHS5X)
-* Java App Development Project: Fundamentals, OOP & File I/O *(Sep 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/EM8W4KHMWCPR)
-
-### 🏅 Coursera
-
-* Software Engineering Essentials *(Sep 2025)*
-  🔗 [View Credential](https://www.credly.com/badges/d821dcba-f5ed-4e3f-9033-ba153f60a14a/linked_in_profile)
-
-### 🏅 Other Certifications
-
-* Foundations of Project Management – United Latino Students Association *(Aug 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/O17H3SXVJ0GO)
-* Start Writing Prompts like a Pro – Google *(Jul 2025)*
-  🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/4Z01PEGIPN61)
-* Folio3 AI Workshop – United Latino Students Association *(Jan 2025)*
-  🔗 [View Credential](https://certificate.givemycertificate.com/c/7541fbe9-be93-49c3-9d94-cb9cce4961bc)
-
----
-
-## 💼 Projects
-
-### 🛒 E-Commerce Application (Java)
-
-* Developed a basic console-based e-commerce system
-* Implemented database connectivity using MySQL
-* Applied Singleton Design Pattern for database management
-
-### ☁️ Cloud Learning Projects
-
-* Explored cloud computing fundamentals
-* Worked on basic cloud-native concepts and deployment ideas
-
----
-
-## 🎯 Career Goals
-
-* To secure a **Software Developer Internship / Trainee Role**
-* To specialize in **Java Backend Development**
-* To gain hands-on experience with **Spring Boot & Cloud Technologies**
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: (https://www.linkedin.com/in/alishan-arshad)
-* Email: (alishanarshad14@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy solving coding problems and continuously improving my development skills.
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
-
----
+ 
+## About
+ 
+- B.S. Software Engineering student at the University of Karachi (UBIT)
+- Participant in the 10Pearls Shine program, Java Full Stack (Java + ReactJS) track
+- Focused on backend development, with growing interest in cloud-native systems
+- Learning by building real projects and writing tests for them
+## Currently Working On
+ 
+**Contact Management System** (full-stack, in progress)
+A multi-user contact manager with registration and login, contact CRUD, search and pagination, and a React dashboard.
+ 
+Stack: Java 21, Spring Boot, Spring Data JPA, Hibernate, MySQL, React, JUnit and Mockito.
+ 
+Currently learning: React.js, Spring Security with JWT, SonarQube.
+ 
+## Skills
+ 
+| Area | Technologies |
+|---|---|
+| Languages | Java, SQL, JavaScript, HTML, CSS |
+| Backend | Spring Framework, Spring Boot, Spring Data JPA, Hibernate, REST APIs |
+| Database | MySQL |
+| Testing | JUnit, Mockito |
+| Tools | Git, GitHub, Maven |
+| Concepts | Object-Oriented Programming, Data Structures, DBMS, Software Engineering Principles, Microservices and Containers |
+ 
+## Projects
+ 
+**Contact Management System** (in progress)
+Full-stack web application built with Spring Boot and React. Includes JPA entities for users and contacts, repository tests against a real MySQL database, and global exception handling.
+ 
+**E-Commerce Application (Java)**
+Console-based e-commerce system with MySQL connectivity, using the Singleton design pattern to manage the database connection.
+ 
+**Cloud Learning Projects**
+Hands-on practice with cloud computing fundamentals and cloud-native concepts.
+ 
+## Certifications
+ 
+**IBM**
+ 
+- Cloud Native, Microservices, Containers, DevOps and Agile (Apr 2026) - [View credential](https://www.coursera.org/account/accomplishments/verify/I20MEKV1QTEA)
+- Getting Started with Git and GitHub (Oct 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/I20MEKV1QTEA)
+- Introduction to HTML, CSS, and JavaScript (Oct 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/818ZKKO3POJZ)
+- Object Oriented Programming in Java (Sep 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/B1OENEE9G9FM)
+- Java Programming for Beginners (Sep 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/ETTUVLWE4WLF)
+- Introduction to Software Engineering (Sep 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/S42EW2LXLSU4)
+- IBM Java Developer Professional Certificate (in progress)
+**SkillUp**
+ 
+- Java Development with Databases (Mar 2026) - [View credential](https://www.coursera.org/account/accomplishments/verify/4TBKOQU85UK8)
+- Spring Framework for Java Development (Oct 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/7Q3HTF5DHS5X)
+- Java App Development Project: Fundamentals, OOP and File I/O (Sep 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/EM8W4KHMWCPR)
+**Coursera**
+ 
+- Software Engineering Essentials (Sep 2025) - [View credential](https://www.credly.com/badges/d821dcba-f5ed-4e3f-9033-ba153f60a14a/linked_in_profile)
+**Other**
+ 
+- Foundations of Project Management, United Latino Students Association (Aug 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/O17H3SXVJ0GO)
+- Start Writing Prompts like a Pro, Google (Jul 2025) - [View credential](https://www.coursera.org/account/accomplishments/verify/4Z01PEGIPN61)
+- Folio3 AI Workshop, United Latino Students Association (Jan 2025) - [View credential](https://certificate.givemycertificate.com/c/7541fbe9-be93-49c3-9d94-cb9cce4961bc)
+## Career Goals
+ 
+- Secure a software developer internship or trainee role
+- Specialize in Java backend development
+- Gain hands-on experience with Spring Boot and cloud technologies
+ 
